@@ -6,7 +6,7 @@ This profile is where that comes out. Right now that means learning Claude Code 
 
 ## What I'm building
 
-**[Poke Showcase Dex](#)** — a Pokémon showcase/dex app, and my main playground for learning Claude Code. Less about the Pokémon (okay, also about the Pokémon) and more about understanding how to work with an AI coding agent end to end: planning, building, debugging, iterating.
+**[Poke Showcase Dex](https://github.com/just-lagger/Poke-Showcase-Dex)** — a Pokémon showcase/dex app, and my main playground for learning Claude Code. Less about the Pokémon (okay, also about the Pokémon) and more about understanding how to work with an AI coding agent end to end: planning, building, debugging, iterating.
 
 More projects will land here as I keep poking around.
 
