@@ -17,7 +17,8 @@ Years of writing specs and reviewing PRs gave me strong opinions about what good
 ## Stack / tools
 
 - Claude Code
-- N8N (workflow automation, separate from the coding projects)
+- Claude Design
+- Android Studio
 
 ---
 
