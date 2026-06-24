@@ -22,6 +22,10 @@ Years of writing PRDs gave me strong opinions about what good products feel like
 - Claude Design
 - Android Studio
 
+## Me as a DND character
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d0fadae6-d936-482e-9d80-5935271147d6" />
+
+
 ---
 
 *Repos here are personal and exploratory — built to learn, not production-grade. Happy to chat if you're curious about any of it.*
