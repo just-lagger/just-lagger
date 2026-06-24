@@ -22,8 +22,7 @@ Years of writing PRDs gave me strong opinions about what good products feel like
 - Claude Design
 - Android Studio
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/15d210a5-5200-4e82-8a41-80700370256a" />
-
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/39bb05d5-79df-4be8-a79d-57bcc7396b83" />
 
 
 ---
